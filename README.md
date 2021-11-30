@@ -13,5 +13,7 @@ Program that calculates brace depth using Python
 - Assume that all quoted strings begin and end on the same line
 
 # Sample Input File
+<img src='InputFile.png'/>
 
 # Sample Output
+<img src='Output.png'/>
