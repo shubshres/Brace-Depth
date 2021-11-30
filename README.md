@@ -17,3 +17,8 @@ Program that calculates brace depth using Python
 
 # Sample Output
 <img src='Output.png'/>
+
+# Details
+- The code is located in sxs4805_PA4.py
+- The sample input file is SampleInput.txt
+- More detailed directions can be found in CSE3302-Lab-Brace-Depth.pdf
