@@ -4,7 +4,7 @@
 # Using macOS Monterey v.12.0.1 with Python v.3.9.5
 
 # opening file input.txt as read
-inputFile = open('input.txt', 'r')
+inputFile = open('SampleInput.txt', 'r')
 
 # storing contents of file
 fileContents = inputFile.readlines()
