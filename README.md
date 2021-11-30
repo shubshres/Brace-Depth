@@ -2,7 +2,7 @@
 Program that calculates brace depth using Python
 
 # This Program:
-- Lists the nesting depth of curly braces
+- Lists the nesting depth of curly braces from an input file
 - Ignores braces insdie quotes or comments
 - Tests for unmatched braces (expected ‘}’ but found EOF); output an error message
 - Allow for multiple braces on the same line, for example “}}” ending a loop and a function
@@ -11,3 +11,7 @@ Program that calculates brace depth using Python
 # Assumptions:
 - Assume braces can be anywhere
 - Assume that all quoted strings begin and end on the same line
+
+# Sample Input File
+
+# Sample Output
