@@ -80,7 +80,7 @@ if(nestingDepth != 0):
 elif(quoteCount != 0):
     print("ERROR: missing \"")
 elif(blockCount != 0):
-    print("ERROR: missing \"")
+    print("ERROR: missing */")
 
 print(quoteCount)
 print(blockCount)
